@@ -1,0 +1,12 @@
+/pub/sungjub/ee283/rawdata/DNAseq/ADL06_1
+/pub/sungjub/ee283/rawdata/DNAseq/ADL06_2
+/pub/sungjub/ee283/rawdata/DNAseq/ADL06_3
+/pub/sungjub/ee283/rawdata/DNAseq/ADL09_1
+/pub/sungjub/ee283/rawdata/DNAseq/ADL09_2
+/pub/sungjub/ee283/rawdata/DNAseq/ADL09_3
+/pub/sungjub/ee283/rawdata/DNAseq/ADL10_1
+/pub/sungjub/ee283/rawdata/DNAseq/ADL10_2
+/pub/sungjub/ee283/rawdata/DNAseq/ADL10_3
+/pub/sungjub/ee283/rawdata/DNAseq/ADL14_1
+/pub/sungjub/ee283/rawdata/DNAseq/ADL14_2
+/pub/sungjub/ee283/rawdata/DNAseq/ADL14_3
